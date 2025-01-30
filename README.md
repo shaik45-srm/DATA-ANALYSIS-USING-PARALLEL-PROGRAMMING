@@ -113,6 +113,5 @@ Parallel Execution Time: X seconds
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
-
-Feel free to modify and adapt this project for your needs!
+## Contact
+For queries or collaboration, contact [MURALI SAI V ]&[SAMEER SK] at [mv8039@srmist.edu.in] &[ss7268@srmist.edu.in].
